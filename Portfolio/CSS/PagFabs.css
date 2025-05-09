@@ -72,6 +72,24 @@ main {
     margin: 0 auto;
 }
 
+.conteudo p {
+    margin-bottom: 20px;
+}
+
+.cardFormacao {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.cardFormacao ul li .status {
+    font-size: 15px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
 .card {
     background-color: #fff;
     padding: 20px;
